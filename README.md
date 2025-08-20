@@ -1,2 +1,2 @@
-# Trial
-My first repo
+# Trial - Trying to understand Git
+My first repo - understandable
